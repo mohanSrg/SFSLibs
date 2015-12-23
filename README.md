@@ -1,2 +1,3 @@
 # SFSLibs
 SFSLibs
+SFSLIBS
